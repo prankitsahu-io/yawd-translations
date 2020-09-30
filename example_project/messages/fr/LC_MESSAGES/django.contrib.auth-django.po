@@ -3,6 +3,7 @@
 # Translators:
 #   <claude@2xlibre.net>, 2011, 2012.
 # Jannis Leidel <jannis@leidel.info>, 2011.
+# data set
 msgid ""
 msgstr ""
 "Project-Id-Version: Django\n"
